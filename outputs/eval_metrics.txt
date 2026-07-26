@@ -1,0 +1,8 @@
+Test set results
+  Accuracy:  0.8289
+  Precision: 0.9310
+  Recall:    0.7105
+  F1 score:  0.8060
+  Confusion matrix (rows=true, cols=pred) [authentic, tampered]:
+[[36  2]
+ [11 27]]
